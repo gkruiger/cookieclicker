@@ -8,13 +8,14 @@ There's this game called [Cookie Clicker](https://orteil.dashnet.org/cookieclick
 - Autobuys the best building
 
 ## How to use
-Simple.
+Simple:
 - Open the game in Chrome
 - Open the developers toolbar (F12).
-- Open the sources toolbar
+- Open the sources tab
 - Click on New snippet
 - Copy paste the code in the snippet
-- Run the snippet 
+- Run the snippet
+- Sit back and enjoy the free cookies
 
 ## More information
-Refer to [my blog]() about this (Dutch).
+Refer to [my blog](https://www.ontdeksels.nl/ontdeksel-33-koekje-erbij/) about this (in Dutch).
